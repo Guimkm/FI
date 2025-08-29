@@ -1,0 +1,67 @@
+Anotações do treinamento linux
+
+1: Mostra o caminho completo do diretório atual em que você está no sistema de arquivos
+
+
+2: Permite mudar o diretório de trabalho
+
+Pode ser usado para entrar em diretórios, subir níveis na hierarquia ou voltar ao diretório anterior
+
+
+3: ista os arquivos e diretórios no diretório atual
+
+Pode mostrar arquivos ocultos e detalhes adicionais com opções como -a e -l
+
+
+4: Limpa todo o conteúdo exibido no terminal, deixando a tela "limpa"
+
+
+5: Cria novos diretórios no local atual ou em caminhos especificados
+
+Pode criar múltiplos diretórios ao mesmo tempo
+
+
+6: Mostra o conteúdo de um ou mais arquivos de uma só vez
+
+Também pode ser usado para concatenar arquivos e redirecionar a saída para outro arquivo
+
+
+7: Copia arquivos ou diretórios para outro local
+
+Pode manter permissões e datas com opções, e realizar cópias recursivas
+
+
+8: Apaga arquivos ou diretórios
+
+Pode fazer isso com confirmação, forçar remoção ou apagar recursivamente
+
+
+9: Move ou renomeia arquivos e diretórios
+
+Substitui o conteúdo se o destino já existir com ou sem confirmação, dependendo da opção usada
+
+
+10: Identifica o tipo de conteúdo de um arquivo, como texto, imagem, executável, entre outros
+
+
+11: Exibe o conteúdo de um arquivo uma tela por vez
+
+Permite rolar a leitura e buscar por palavras no conteúdo
+
+
+12: Exibe o manual de ajuda para qualquer comando do Linux, com detalhes sobre uso, opções e exemplos
+
+
+13: Lista todos os arquivos e diretórios localizados na raiz do sistema
+
+
+14: Lista os arquivos e diretórios de configuração do sistema Linux, localizados em /etc
+
+
+15: Exibe em sequência o conteúdo da raiz do sistema e do diretório de configuração
+
+
+16: Lista todos os arquivos e diretórios da raiz, incluindo arquivos ocultos aqueles que começam com ponto
+
+
+17: Ir até o diretório pessoal do usuário, criar uma pasta chamada "Teste", verificar sua criação, removê-la e confirmar sua remoção com um novo comando de listagem                                  
